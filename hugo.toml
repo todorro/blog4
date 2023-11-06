@@ -1,0 +1,7 @@
+baseURL = 'https://rakovski.cc'
+languageCode = 'en-us'
+languageName="English"
+title = 'rakovski.cc'
+theme = "LoveIt"
+
+

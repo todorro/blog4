@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>chess - Tag - Rakovski.cc</title>
+        <link>https://rakovski.cc/tags/chess/</link>
+        <description>chess - Tag - Rakovski.cc</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Feb 2022 11:04:49 &#43;0800</lastBuildDate><atom:link href="https://rakovski.cc/tags/chess/" rel="self" type="application/rss+xml" /><item>
+    <title>What can chess teach about life?</title>
+    <link>https://rakovski.cc/chess/</link>
+    <pubDate>Wed, 02 Feb 2022 11:04:49 &#43;0800</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/chess/</guid>
+    <description><![CDATA[Header image At the beginning of the game, there are 20 possible moves one can make. Two for each pawn, two for each knight. Most of them are, more or less, good. The most common opening, E4 is widely preferred. When your opponent moves, this opens up 400 possible games. Once your opponent completes their 5th move, there are 69 trillion possible games. And we are still in “opening stage” of the game.]]></description>
+</item>
+</channel>
+</rss>

@@ -3,7 +3,7 @@
         <title>Rakovski.cc</title>
         <link>https://rakovski.cc/</link>
         <description>rakovski.cc</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 15 Feb 2023 11:04:49 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 12 Nov 2023 12:45:27 &#43;0100</lastBuildDate>
             <atom:link href="https://rakovski.cc/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Платон как анти-Аристотель</title>
@@ -20,6 +20,15 @@
     <author>Rakovski</author>
     <guid>https://rakovski.cc/chess/</guid>
     <description><![CDATA[Header image At the beginning of the game, there are 20 possible moves one can make. Two for each pawn, two for each knight. Most of them are, more or less, good. The most common opening, E4 is widely preferred. When your opponent moves, this opens up 400 possible games. Once your opponent completes their 5th move, there are 69 trillion possible games. And we are still in “opening stage” of the game.]]></description>
+</item>
+<item>
+    <title>Как найти квартиру в берлине в 2023</title>
+    <link>https://rakovski.cc/berliving/</link>
+    <pubDate>Sun, 12 Nov 2023 12:45:27 &#43;0100</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/berliving/</guid>
+    <description><![CDATA[Найти квартиру в Берлине сложно. Почти невозможно с первого раза найти то что нужно, особенно если переезжаете из за границы. В 2022ом году, 137 тыс людей вьехали в новую квартиру в Берлине и эти цифры тольно растут.
+Проект Поэтому был создан проект, где Русско- и Англо-язычные новоприежзие в Берлине поделились своим опытом и помогли со сбором данных на этот ресурс. Если вы тоже хотите поделиться, это можно сделать анонимно и за 5 минут заполнив Опросник.]]></description>
 </item>
 </channel>
 </rss>

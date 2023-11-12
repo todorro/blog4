@@ -9,6 +9,7 @@ lightgallery: true
 images: [image1.png, image2.png]
 tags: ["Берлин", "практические советы"]
 categories: ["Берлин"]
+params.page.share 
 math:
   enable: true
 ---

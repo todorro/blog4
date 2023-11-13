@@ -51,5 +51,29 @@
     <guid>https://rakovski.cc/tags/chess/</guid>
     <description><![CDATA[]]></description>
 </item>
+<item>
+    <title>内容</title>
+    <link>https://rakovski.cc/tags/content/_index.zh-cn/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/tags/content/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>安装</title>
+    <link>https://rakovski.cc/tags/installation/_index.zh-cn/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/tags/installation/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>https://rakovski.cc/tags/configuration/_index.zh-cn/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/tags/configuration/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
 </channel>
 </rss>

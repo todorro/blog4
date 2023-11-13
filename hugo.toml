@@ -27,7 +27,7 @@ copyright = ""
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
@@ -845,62 +845,39 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         RSS = false
 
 
-  [languages.zh-cn]
+  [languages.ru]
     weight = 2
-    languageCode = "zh-CN"
-    languageName = "简体中文"
-    hasCJKLanguage = true
+    languageCode = "RU"
+    languageName = "Russian"
+    hasCJKLanguage = false
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
+    [languages.ru.menu]
+      [[languages.ru.menu.main]]
         weight = 1
         identifier = "posts"
         pre = ""
         post = ""
-        name = "所有文章"
+        name = "Записи"
         url = "/posts/"
         title = ""
-      [[languages.zh-cn.menu.main]]
+      [[languages.ru.menu.main]]
         weight = 2
         identifier = "tags"
         pre = ""
         post = ""
-        name = "标签"
+        name = "Метки"
         url = "/tags/"
         title = ""
-      [[languages.zh-cn.menu.main]]
+      [[languages.ru.menu.main]]
         weight = 3
         identifier = "categories"
         pre = ""
         post = ""
-        name = "分类"
+        name = "Категории"
         url = "/categories/"
         title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 5
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "关于"
-        url = "/about/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-    [languages.zh-cn.params]
-      [languages.zh-cn.params.search]
+    [languages.ru.params]
+      [languages.ru.params.search]
         enable = true
         type = "algolia"
         contentLength = 4000
@@ -909,29 +886,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         snippetLength = 50
         highlightTag = "em"
         absoluteURL = false
-        [languages.zh-cn.params.search.algolia]
-          index = "index.zh-cn"
+        [languages.ru.params.search.algolia]
+          index = "index.ru"
           appID = "PASDMWALPK"
           searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      [languages.zh-cn.params.home]
-        rss = 10
-        [languages.zh-cn.params.home.profile]
-          enable = true
-          gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
-          title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
-          typeit = true
-          social = true
-          disclaimer = ""
-      [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        Phone = "555-555-555"
-        RSS = true
+      [languages.ru.params.social]
+        GitHub = ""
+        Weibo = ""
+        Steam = ""
+        Zhihu = ""
+        Douban = ""
+        Devto = ""
+        Bilibili = ""
+        Email = " "
+        Phone = " "
+        RSS = false

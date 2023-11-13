@@ -11,5 +11,13 @@
     <guid>https://rakovski.cc/chess/</guid>
     <description><![CDATA[Header image At the beginning of the game, there are 20 possible moves one can make. Two for each pawn, two for each knight. Most of them are, more or less, good. The most common opening, E4 is widely preferred. When your opponent moves, this opens up 400 possible games. Once your opponent completes their 5th move, there are 69 trillion possible games. And we are still in “opening stage” of the game.]]></description>
 </item>
+<item>
+    <title>The MBA Tech stack for Job hunting</title>
+    <link>https://rakovski.cc/jobsearch/</link>
+    <pubDate>Fri, 23 Oct 2020 12:45:27 &#43;0100</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/jobsearch/</guid>
+    <description><![CDATA[Who is this guide for? For those who are targeting a fragmented market, where job hunting is similar to Sales, where you have to set up the funnel and churn through until you get a positive result. Some examples of fragmented job markets are: any VC role, BizDev, CorpDev, Sales, Marketing, Product Management, Account Management, Internal Strategy, Ops. Here, the biggest predictor of success is Volume of applications. To increase Volume, you need to make applying to jobs as pain-free as possible.]]></description>
+</item>
 </channel>
 </rss>

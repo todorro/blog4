@@ -1,0 +1,6 @@
+{
+    "languageToolLinter.languageTool.language": "ru-RU",
+    "languageToolLinter.languageTool.motherTongue": "ru-RU",
+    "languageToolLinter.lintOnChange": true,
+    "languageToolLinter.lintOnOpen": true
+}

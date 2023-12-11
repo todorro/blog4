@@ -1,7 +1,7 @@
 ---
-weight: 1
+weight: 5
 title: "What can chess teach about life?"
-date: 2022-02-02T11:04:49+08:00
+date: 2021-02-02T11:04:49+08:00
 draft: false
 description: "Chess"
 author: Rakovski

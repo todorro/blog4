@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 7
 title: "The MBA Tech stack for Job hunting"
 date: 2020-10-23T12:45:27+01:00
 draft: false

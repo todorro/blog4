@@ -28,6 +28,14 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
+    <title>Исскуство</title>
+    <link>https://rakovski.cc/tags/%D0%B8%D1%81%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE/</link>
+    <pubDate>Wed, 15 Feb 2023 11:04:49 &#43;0800</pubDate>
+    <author>Rakovski</author>
+    <guid>https://rakovski.cc/tags/%D0%B8%D1%81%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>книги</title>
     <link>https://rakovski.cc/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</link>
     <pubDate>Wed, 15 Feb 2023 11:04:49 &#43;0800</pubDate>
@@ -36,7 +44,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>философия</title>
+    <title>Философия</title>
     <link>https://rakovski.cc/tags/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
     <pubDate>Wed, 15 Feb 2023 11:04:49 &#43;0800</pubDate>
     <author>Rakovski</author>
@@ -73,14 +81,6 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Rakovski</author>
     <guid>https://rakovski.cc/tags/installation/_index.zh-cn/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>配置</title>
-    <link>https://rakovski.cc/tags/configuration/_index.zh-cn/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Rakovski</author>
-    <guid>https://rakovski.cc/tags/configuration/_index.zh-cn/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

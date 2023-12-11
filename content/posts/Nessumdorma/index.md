@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: "Nessum Dorma и Значение имени"
-date: 2023-02-15T11:04:49+08:00
+date: 2023-12-11T11:04:49+08:00
 draft: false
 description: "О смысле песни"
 author: Rakovski
